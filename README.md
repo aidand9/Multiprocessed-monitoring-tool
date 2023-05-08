@@ -1,6 +1,6 @@
 # Multiprocessed-monitoring-tool
 
-This is an augmented version of the system monitoring tool. It utilizes forks and pipe so that it runs concurrently and is multiprocessed. To compile this program, open a terminal in the directory with all the files in it and run "make". To then execute it, run ./main.out with your desired command line arguments.
+This is an augmented version of the system monitoring tool. It utilizes forks and pipes so that it runs concurrently and is multiprocessed. To compile this program, open a terminal in the directory with all the files in it and run "make". To then execute it, run ./main.out with your desired command line arguments.
 
 Here are the command line arguments it accepts:
 
