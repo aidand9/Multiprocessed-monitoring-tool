@@ -15,7 +15,7 @@ Here are the command line arguments it accepts:
 
 --graphics
 
-        to include graphical output in the cases where a graphical outcome is possible as indicated below.
+        to include graphical output in the cases where a graphical outcome is possible.
 
 
 --sequential
